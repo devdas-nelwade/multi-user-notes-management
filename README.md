@@ -49,12 +49,12 @@ git add .
 git commit -m
 git push 
 
-# 📝 Multi-User Notes Management App (MERN Stack)
+# Multi-User Notes Management App (MERN Stack)
 
 ## Overview
 This is a full-stack multi-user notes management system where users can register, log in, and manage their personal notes securely. The app uses the MERN (MongoDB, Express, React, Node.js) stack and supports authentication, note creation, update, deletion, and listing.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend:
 - React
@@ -71,9 +71,9 @@ This is a full-stack multi-user notes management system where users can register
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
-### 📦 Backend Setup
+### Backend Setup
 
 1. Navigate to backend:
 ```bash
